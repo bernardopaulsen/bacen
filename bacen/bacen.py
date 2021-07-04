@@ -1,3 +1,10 @@
+"""
+bacen Package
+-------------
+Gets data from Bacen Time Series Management System API
+"""
+
+
 import pandas as pd
 
 def get(number : int, start : str, end : str) -> pd.DataFrame:
