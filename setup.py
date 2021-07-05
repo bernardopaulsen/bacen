@@ -7,7 +7,7 @@ requirements = ["pandas>=1.2"]
 
 setup(
     name="bacen",
-    version="0.9.2",
+    version="0.9.3",
     author="Bernardo Paulsen",
     author_email="bernardopaulsen@gmail.com",
     description="A package to import data frmo BACEN's Time Series Management System",
