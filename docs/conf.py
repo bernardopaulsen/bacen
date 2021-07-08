@@ -23,7 +23,7 @@ copyright = '2021, Bernardo Paulsen'
 author = 'Bernardo Paulsen'
 
 # The full version, including alpha/beta/rc tags
-release = '0.9.2'
+release = '0.9.4'
 
 
 # -- General configuration ---------------------------------------------------

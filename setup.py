@@ -7,13 +7,13 @@ requirements = ["pandas>=1.2"]
 
 setup(
     name="bacen",
-    version="0.9.3",
+    version="0.9.4",
     author="Bernardo Paulsen",
     author_email="bernardopaulsen@gmail.com",
     description="A package to import data frmo BACEN's Time Series Management System",
     long_description=readme,
     long_description_content_type="text/markdown",
-    url="https://github.com/bernardopaulsen/bacen",
+    url="https://bacen.readthedocs.io/en/latest/",
     packages=find_packages(),
     install_requires=requirements,
     classifiers=[

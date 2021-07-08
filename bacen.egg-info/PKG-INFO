@@ -1,23 +1,25 @@
 Metadata-Version: 2.1
 Name: bacen
-Version: 0.9.3
+Version: 0.9.4
 Summary: A package to import data frmo BACEN's Time Series Management System
-Home-page: https://github.com/bernardopaulsen/bacen
+Home-page: https://bacen.readthedocs.io/en/latest/
 Author: Bernardo Paulsen
 Author-email: bernardopaulsen@gmail.com
 License: UNKNOWN
-Description: # bacen
-        
-        ## bacen.get
-        
-        ### Parameters
-        - number - str - Series number in BACEN SGS
-        - start - str - Initial date for the series (DD/MM/YYY)
-        - end - str - Final date for the series (DD/MM/YYY)
-        ### Returns
-        - pandas.DataFrame
-        
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3.9
 Classifier: License :: OSI Approved :: MIT License
 Description-Content-Type: text/markdown
+
+# bacen
+
+## bacen.get
+
+### Parameters
+- number - str - Series number in BACEN SGS
+- start - str - Initial date for the series (DD/MM/YYY)
+- end - str - Final date for the series (DD/MM/YYY)
+### Returns
+- pandas.DataFrame
+
+
